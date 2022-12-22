@@ -1,1 +1,2 @@
-# web_programlama
+# Web Programlama Projesi
+Yemek Tarifleri Sitesi
