@@ -1,2 +1,2 @@
 # Web Programlama Projesi
-Yemek Tarifleri Sitesi Asp.NET 6 MVC
+Kütüphane Otomasyonu Asp.NET 6 MVC
